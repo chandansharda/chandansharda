@@ -12,7 +12,6 @@
 - **Secure**
 - **Load blazing fast**
 - **Crafted with pixel-perfect code**
-<br/>
 
 <h2 align="left">
     Frameworks that i worked on are following:
