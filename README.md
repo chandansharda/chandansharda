@@ -2,7 +2,7 @@
 <h3 align="center">
     An  IOS Developer.  
 </h3>
-<h2 align="center">
+<h2 align="left">
     I create user experiences that are:
 </h2>
 
