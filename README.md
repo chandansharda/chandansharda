@@ -14,4 +14,21 @@
 - **Crafted with pixel-perfect code**
 <br/>
 
+<h2 align="left">
+    Frameworks that i worked on are following:
+</h2>
+
+- **RxSwift**
+- **SwiftUI**
+- **UIKit**
+- **AVFoundation**
+- **Alamofire/URLSession**
+- **Core Data**
+- **Firebase**
+- **Core Animation**
+- **Healthkit**
+- **Watch OS**
+
+<br/>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chandansharda&color=green" alt="Chandan Sharda" /> </p>
