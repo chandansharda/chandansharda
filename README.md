@@ -24,8 +24,8 @@
 - **AVFoundation**
 - **Alamofire/URLSession**
 - **Core Data**
-- **Firebase**
 - **Core Animation**
+- **Firebase**
 - **Healthkit**
 - **Watch OS**
 
