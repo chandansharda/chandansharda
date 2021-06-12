@@ -1,4 +1,5 @@
 <h1 align="center"> Hey 👋🏽, I'm Chandan Sharda </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansharda&color=green" alt="Chandan Sharda" /> </p>
 
 <h3 align="center">
     An IOS Developer.  
@@ -18,3 +19,4 @@
 
 <br/>
 <br/>
+https://komarev.com/ghpvc/?username=chandansharda&color=green
