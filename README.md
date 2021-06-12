@@ -2,6 +2,7 @@
 <h3 align="center">
     An  IOS Developer.  
 </h3>
+<h1 align="center">
 <a href="https://in.linkedin.com/in/chandan-sharda-a33869b8">
   <img align="center" alt="Chandan Sharda's Linkdin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,6 +15,7 @@
 <a href="https://www.facebook.com/chandan.sharda.98">
   <img align="center" alt="Chandan Sharda's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+</h1>
 <br/><br/>
 <h2 align="left">
     I create user experiences that are:
