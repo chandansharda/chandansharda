@@ -16,7 +16,6 @@
   <img align="center" alt="Chandan Sharda's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </h1>
-<br/><br/>
 <h2 align="left">
     I create user experiences that are:
 </h2>
