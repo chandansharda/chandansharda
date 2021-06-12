@@ -6,9 +6,9 @@
     I create user experiences that are:
 </h2>
 
-- **Responsive **
+- **Responsive**
 - **Dynamic**
-- **Reusable ♻**
+- **Reusable**
 - **Secure**
 - **Load blazing fast**
 - **Crafted with pixel-perfect code**
