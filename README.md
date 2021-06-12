@@ -6,12 +6,12 @@
     I create user experiences that are:
 </h2>
 
-- **Responsive ✅**
-- **Dynamic 🧬**
-- **Reusable ♻️**
-- **Secure 🛡️**
-- **Load blazing fast 🚀**
-- **Crafted with pixel-perfect code ✨**
+- **Responsive **
+- **Dynamic**
+- **Reusable ♻**
+- **Secure**
+- **Load blazing fast**
+- **Crafted with pixel-perfect code**
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chandansharda&color=green" alt="Chandan Sharda" /> </p>
