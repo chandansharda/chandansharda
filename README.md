@@ -23,7 +23,6 @@
 - **Responsive**
 - **Dynamic**
 - **Reusable**
-- **Secure**
 - **Load blazing fast**
 - **Crafted with pixel-perfect code**
 
