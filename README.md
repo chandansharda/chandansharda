@@ -55,6 +55,11 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansharda&layout=compact&langs_count=10&hide=Objective-C,JavaScript" alt="Chandan Sharda" /> </p>     
 
 
-       [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchandansharda%2FFloatingBubbles&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Chandan Sharda)](https://hits.seeyoufarm.com)
-       
-[![Personal Blog](https://komarev.com/ghpvc/?username=chandansharda&color=green" alt="Chandan Sharda" )]
+<h1 align="center">
+<a href="https://in.linkedin.com/in/chandan-sharda-a33869b8">
+  <img align="center" alt="Chandan Sharda's Linkdin" width="22px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchandansharda%2FFloatingBubbles&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Chandan Sharda" />
+</a>
+<a href="https://github.com/chandansharda">
+  <img align="center" alt="Chandan Sharda's Github" width="22px" src="https://komarev.com/ghpvc/?username=chandansharda&color=green" alt="Chandan Sharda" />
+</a>
+</h1>
