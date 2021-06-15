@@ -43,4 +43,7 @@
 
 <br/>
 
+ [![Chandan Sharda's github stats](https://github-readme-stats.vercel.app/api?username=chandansharda&show_icons=true&count_private=true)]
+
+                
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chandansharda&color=green" alt="Chandan Sharda" /> </p>
