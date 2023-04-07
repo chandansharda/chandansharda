@@ -23,7 +23,7 @@
 
 - **RxSwift**
 - **SwiftUI**
-- **Swift Vapor**
+- **Vapor**
 - **UIKit**
 - **AVFoundation**
 - **Alamofire/URLSession**
