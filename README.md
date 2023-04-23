@@ -21,15 +21,12 @@
     Frameworks that i worked on are following:
 </h2>
 
+- **Swift**
 - **RxSwift**
-- **SwiftUI**
-- **Vapor**
 - **UIKit**
 - **AVFoundation**
 - **Alamofire/URLSession**
-- **Core Data**
 - **Firebase**
-- **Watch OS**
 
 <br/>
 
