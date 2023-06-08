@@ -23,7 +23,9 @@
 
 - **Swift**
 - **RxSwift**
+- **Combine**
 - **UIKit**
+- **SwiftUI**
 - **AVFoundation**
 - **Alamofire/URLSession**
 - **Firebase**
