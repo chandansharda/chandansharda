@@ -17,10 +17,6 @@
 </a>
 </h1>
 
-<h2 align="left">
-    Frameworks that i worked on are following:
-</h2>
-
 <br/>
 <h2 align="left">
     Github Activity Statistics:
