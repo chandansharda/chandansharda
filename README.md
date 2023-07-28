@@ -21,17 +21,7 @@
     Frameworks that i worked on are following:
 </h2>
 
-- **Swift**
-- **RxSwift**
-- **Combine**
-- **UIKit**
-- **SwiftUI**
-- **AVFoundation**
-- **Alamofire/URLSession**
-- **Firebase**
-
 <br/>
-
 <h2 align="left">
     Github Activity Statistics:
 </h2>
